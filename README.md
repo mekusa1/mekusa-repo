@@ -1,2 +1,1 @@
-# mekusa-repo
-code for mekusa
+# This repository is for mekusa developers
